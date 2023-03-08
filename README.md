@@ -4,10 +4,10 @@ Analyze WeatherPy weather data using Python 3.9.6, Jupyter Notebook 6.3.0, Googl
 ## Overview of Project
 
 ### Background
-As an introduction to Python APIs, this project calls GoogleMaps and OpenWeather APIs in Pandas DataFrames with Python to analyze WeatherPy data. In the original project, I analyzed historic weather data from random locations to study the relationships between latitude and weather parameters, such as humidity, wind speed and cloudiness. The results of this analysis were visualized in linear regression scatter plots and Google Maps marker and heatmaps.
+As an introduction to Python APIs, this project calls GoogleMaps and OpenWeather APIs in Pandas DataFrames with Python to analyze WeatherPy data. In the original project, I analyzed historic weather data from random locations to study the relationships between latitude and weather parameters, such as humidity, wind speed and cloudiness. The results of this analysis were visualized in linear regression scatter plots, as well as Google Maps marker layers and heatmaps.
 
 ### Purpose
-The purpose of this analysis was to use Google Maps and OpenWeather APIs to get historical weather data to and filter the results based on user input preferences. To practice using heatmaps and marker layers, I also produced maps displaying vacation options and directions based on input preferences for a prospective travel application.
+The purpose of this analysis was to use Google Maps and OpenWeather APIs to retrieve historical weather data and filter the results based on user input preferences. To practice using heatmaps and marker layers, I also produced maps displaying vacation options and directions based on input preferences for a prospective travel application.
 
 
 ## Results
@@ -33,5 +33,5 @@ A potential travel itinerary was created by choosing four cities from the travel
 
 
 ## Summary
-In this analysis, I practiced calling APIs for weather and geocode data. The results were created by using maps with marker layers from Google Maps. In another iteration of this analysis, I would consider also displaying most popular tourist season dates for the destination. Another interesting data point to consider would be average plane prices from the user's home city to each destination. 
+In this analysis, I practiced calling APIs for weather and geocode data. The results were created with marker layer maps from Google Maps. In another iteration of this analysis, I would consider also displaying most popular tourist season dates for the destination. Another interesting data point to consider would be average plane prices from the user's home city to each destination. 
 
